@@ -1,2 +1,3 @@
 # Non-Linear-Time-Series-Analysis-Using-Machine-Learning-Time-Series-Analysis-and-Deep-Learning
 Forecast is done on real dataset from year 1961 to 2017. Seven different models were built for univariate and multivariate time series analysis using Machine Learning, Time Series Analysis techniques and Deep Learning as a tool and variation in the outcome of different models were observed. Non Linear Time Series dataset provided was such that there was 1 dependent variable (outcome) i.e. the production of cereals annually of order of e+08 and 13 independent variable (features) on which the production of cereals depend, and on which five models were made to check the accuracy of each on the same dataset. 
+             
